@@ -23,3 +23,13 @@ Este proyecto tiene como objetivo desarrollar una aplicación web utilizando Ang
 ✔ Acceso Inclusivo: Garantizar que la aplicación sea accesible y fácil de usar para personas de todas las edades y capacidades.
 
 ### Aplicación
+
+✔ Panel de Información: Una sección donde los usuarios pueden acceder a artículos, videos y recursos sobre salud y bienestar.
+
+✔ Registro de Actividades: Herramientas para que los usuarios registren sus actividades diarias relacionadas con la salud, como la alimentación, el ejercicio y el sueño.
+
+✔ Seguimiento de Progreso: Gráficos y estadísticas que muestren el progreso del usuario en sus objetivos de salud.
+
+✔ Recomendaciones: Un motor de recomendaciones que sugiera actividades, dietas y ejercicios personalizados basados en los datos del usuario.
+
+✔ Comunidad y Apoyo: Foros y grupos de apoyo donde los usuarios pueden interactuar, compartir experiencias y recibir apoyo de la comunidad.

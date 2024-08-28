@@ -1,7 +1,6 @@
 # ActiveLife 🍏🚴
 
-## Proyecto 
-(Img)
+<img src="img/Logo_ActiveLife.JPG" alt="Active Life" width="100" height="100"/>
 
 ## Proyecto para desarrollo de aplicaciones web
 

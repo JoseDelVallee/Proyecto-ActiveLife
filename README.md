@@ -32,3 +32,6 @@ Este proyecto tiene como objetivo desarrollar una aplicación web utilizando Ang
 ✔ Recomendaciones: Un motor de recomendaciones que sugiera actividades, dietas y ejercicios personalizados basados en los datos del usuario.
 
 ✔ Comunidad y Apoyo: Foros y grupos de apoyo donde los usuarios pueden interactuar, compartir experiencias y recibir apoyo de la comunidad.
+
+
+### Collaborators

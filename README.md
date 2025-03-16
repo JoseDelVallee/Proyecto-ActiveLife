@@ -35,3 +35,7 @@ Este proyecto tiene como objetivo desarrollar una aplicación web utilizando Ang
 
 
 ### Collaborators
+* Piña Del Valle José
+* Arias Morales Yahir
+* Ayala García Oscar Galo
+* Rivera García Axel Maximiliano
